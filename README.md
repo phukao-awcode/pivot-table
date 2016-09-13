@@ -10,3 +10,4 @@ Demonstrate idea of creating pivot table by Laravel
  - Test 8
  - Test 9
  - Test 10
+ - Test 11
